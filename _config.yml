@@ -8,7 +8,7 @@
 #
 remote_theme: uol-library/jekyll-theme-uol
 title: Digital Library Infrastructure Project (DLIP)
-url: https://equipment.library.leeds.ac.uk
+url: https://peteredwards.github.io/DLIP
 baseurl: 
 author:
   name: peteredwards
