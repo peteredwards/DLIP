@@ -1,3 +1,9 @@
+---
+permalink: /time/
+layout: page
+title: DLIP timesheets
+---
+
 DLIP meetings
 -------------
 
