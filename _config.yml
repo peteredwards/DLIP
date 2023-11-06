@@ -48,9 +48,9 @@ contact:
     # youtube_channel_name: 
 
 # Blog settings
-paginate: 10
-paginate_path: "/blog/page:num/"
-show_excerpts: true
+#paginate: 10
+#paginate_path: "/blog/page:num/"
+#show_excerpts: true
 # Date format - this is overridden in post-list-item.html
 date_format: "%A %-d %b, %Y"
 permalink: pretty
@@ -63,6 +63,3 @@ exclude:
   - package*
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-paginate
